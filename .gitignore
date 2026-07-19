@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+# Keep raw data structure but ignore very large files if needed
+*.xlsx
+*.xls
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

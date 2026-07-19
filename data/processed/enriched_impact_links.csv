@@ -1,0 +1,6 @@
+parent_id,pillar,related_indicator,impact_direction,impact_magnitude,lag_months,evidence_basis
+EV_NEW_001,USAGE,DIGITAL_PAYMENT_USAGE,positive,high,6,Mobile money expansion increases digital transactions
+EV_NEW_002,USAGE,MOBILE_MONEY_ACCOUNT,positive,medium,6,Mobile money competition increases account access
+EV_NEW_003,ACCESS,ACCOUNT_OWNERSHIP,positive,medium,12,Digital identity improves access to formal financial services
+EV_NEW_004,ACCESS,ACCOUNT_OWNERSHIP,positive,medium,12,Digital ID reduces onboarding barriers
+EV_NEW_005,USAGE,DIGITAL_PAYMENT_USAGE,positive,medium,6,Payment infrastructure improves electronic transactions

@@ -1,0 +1,6 @@
+record_id,record_type,category,pillar,value_text,observation_date,source_name,confidence,collected_by,collection_date
+EV_NEW_001,event,product_launch,,Telebirr Mobile Money Launch,2021-05-11,Ethio Telecom,high,Haregeweyn,2026-07-19
+EV_NEW_002,event,product_launch,,M-Pesa Ethiopia Launch,2023-05-08,Safaricom Ethiopia,high,Haregeweyn,2026-07-19
+EV_NEW_003,event,policy,,National Financial Inclusion Strategy II,2021-01-01,National Bank of Ethiopia,high,Haregeweyn,2026-07-19
+EV_NEW_004,event,infrastructure,,Fayda Digital ID Expansion,2023-01-01,National ID Program Ethiopia,medium,Haregeweyn,2026-07-19
+EV_NEW_005,event,infrastructure,,EthSwitch Payment Infrastructure Expansion,2020-01-01,EthSwitch,medium,Haregeweyn,2026-07-19
